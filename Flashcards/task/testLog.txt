@@ -1,0 +1,50 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest card is "France". You have 2 errors answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+reset stats
+Card statistics has been reset.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+There are no cards with errors.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+add
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are ["France", "Russia"]. You have 1 error answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are ["France", "Russia"]. You have 2 error answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are ["France", "Russia"]. You have 3 error answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are ["France", "Russia"]. You have 4 error answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+ask
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+hardest card
+The hardest cards are ["France", "Russia"]. You have 5 error answering them.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+export
+2 cards have been saved.
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+log
+File name:
+testLog.txt
